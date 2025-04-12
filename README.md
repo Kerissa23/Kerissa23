@@ -2,7 +2,7 @@
 
 I’m pursuing software development and as a data enthusiast working on a variety of projects across machine learning, backend development, and business intelligence. Here’s a bit about me and what I do!
 
----
+--- 
 
 ## 🌟 About Me
 
